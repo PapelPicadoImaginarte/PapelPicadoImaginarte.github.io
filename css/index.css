@@ -1,0 +1,36 @@
+#header-text-img .bg {
+    background-image: url('../images/13502110_1729615027280861_1410222996097360762_n.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.57;
+}#sep-bottom-6 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #media-text-icon .bg {
+    background-image: url('../images/31556786_375512526283745_1165778368948338688.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.52;
+}#testimonial-single-4 .bg-wrap {
+    background: #ff2c76;
+}
+#testimonial-single-4 .bg {}#subscribe-text-field .bg-wrap {
+    background-color: #f4f5f6;
+}#desc-img-text-4 .bg-wrap {
+    background-color: #F4F5F6;
+}
+#action-text-btn .bg {
+    background-image: url('../images/bg-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
+#footer-logo-text-2 .bg {
+    background-image: url('../images/30589754_229547807790475_50201630.jpg');
+    background-repeat: Repeat-x;
+    background-position: right bottom;
+    background-size: auto;
+    opacity: 0.27;
+}
